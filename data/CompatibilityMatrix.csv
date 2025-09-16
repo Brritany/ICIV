@@ -1,0 +1,17 @@
+,Propofol,Precedex,Midazolam (Dormicum),Lorazepam (Anxicam),Fentanyl,Cisatracurium (Nimbex),Norepinephrine (Levophed),Vasopressin (Pitressin),Epinephrine (Bosmin),Dopamine,Heparin,Alprostadil (PGE1),Amiodarone (Cordarone),Nitroglycerin (NTG),Nicardipine (Perdipine),Morphine
+Propofol,-,Y,!,Y,Y,N,Y,?,?,!,Y,?,?,!,?,?
+Precedex,Y,-,Y,Y,Y,Y,Y,Y,?,Y,Y,!,Y,Y,Y,?
+Midazolam (Dormicum),!,Y,-,Y,Y,Y,Y,Y,?,Y,Y,Y,Y,Y,Y,Y
+Lorazepam (Anxicam),Y,Y,Y,-,Y,Y,Y,Y,?,Y,Y,?,Y,Y,!,Y
+Fentanyl,Y,Y,Y,Y,-,Y,Y,Y,?,Y,Y,Y,!,Y,Y,?
+Cisatracurium (Nimbex),N,Y,Y,Y,Y,-,Y,!,?,Y,!,N,Y,Y,Y,?
+Norepinephrine (Levophed),Y,Y,Y,Y,Y,Y,-,Y,?,Y,Y,?,!,Y,Y,?
+Vasopressin (Pitressin),?,Y,Y,Y,Y,!,Y,-,?,Y,Y,?,Y,Y,Y,?
+Epinephrine (Bosmin),?,?,?,?,?,?,?,?,-,?,?,?,?,?,?,?
+Dopamine,!,Y,Y,Y,Y,Y,Y,Y,?,-,Y,Y,Y,Y,Y,Y
+Heparin,Y,Y,Y,Y,Y,!,Y,Y,?,Y,-,Y,N,Y,!,?
+Alprostadil (PGE1),?,!,Y,?,Y,N,?,?,?,Y,Y,-,Y,?,?,Y
+Amiodarone (Cordarone),?,Y,Y,Y,!,Y,!,Y,?,Y,N,Y,-,Y,Y,Y
+Nitroglycerin (NTG),!,Y,Y,Y,Y,Y,Y,Y,?,Y,Y,?,Y,-,Y,?
+Nicardipine (Perdipine),?,Y,Y,!,Y,Y,Y,Y,?,Y,!,?,Y,Y,-,?
+Morphine,?,?,Y,Y,?,?,?,?,?,Y,?,Y,Y,?,?,-
