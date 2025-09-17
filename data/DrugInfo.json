@@ -1,0 +1,597 @@
+{
+  "norepinephrine": {
+    "genericName": "Norepinephrine",
+    "brandName": "Levophed",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Predominantly α-receptor–mediated vasoconstriction with weak β-receptor agonism producing modest cardiac stimulation; usual doses do not appear to impair renal function.",
+    "indications": [
+      "Preferred vasopressor in septic shock",
+      "Vasodilatory shock requiring vasopressor support"
+    ],
+    "commonDosing": [
+      "Start 5–10 μg/min IV infusion; titrate upward to effect",
+      "β-receptor stimulation may increase cardiac output at <10 μg/min",
+      "α-mediated vasoconstriction predominates at >10 μg/min",
+      "Around 30 μg/min, further increases seldom add effect; consider adding a second vasopressor"
+    ],
+    "adverseEffects": [
+      "Ischemic events (myocardial, cerebral, limb)",
+      "Troublesome arrhythmias (tachycardia, bradycardia)",
+      "Serious events reported in ~10% of patients, though many may reflect underlying shock"
+    ],
+    "monitoring": [
+      "MAP/arterial blood pressure",
+      "Heart rate and rhythm",
+      "Signs of ischemia (cardiac, neurologic, limb)",
+      "Urine output and peripheral perfusion"
+    ],
+    "contraindications": "",
+    "cautions": "",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "vasopressin": {
+    "genericName": "Vasopressin",
+    "brandName": "Pitressin",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "V1 receptor–mediated vasoconstriction (arterial); V2 antidiuretic effect.",
+    "indications": [
+      "Septic shock resistant to norepinephrine (e.g., ≥0.2 μg/kg/min) as an adjunct (catecholamine-sparing; no proven survival benefit)",
+      "Cardiac arrest: single IV dose of 40 units may replace the first or second epinephrine dose"
+    ],
+    "commonDosing": [
+      "Septic shock: continuous infusion 0.03–0.04 Units/hr; not titrated (unlike catecholamine vasopressors)"
+    ],
+    "adverseEffects": [
+      "Similar in type and frequency to norepinephrine",
+      "Ischemic events",
+      "Arrhythmias"
+    ],
+    "monitoring": [
+      "MAP/arterial blood pressure and perfusion",
+      "Cardiac rhythm",
+      "Clinical signs of ischemia"
+    ],
+    "contraindications": "",
+    "cautions": "Used as an adjunct when norepinephrine support is inadequate; catecholamine-sparing effect noted; no demonstrated survival benefit in septic shock.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+  
+  "epinephrine": {
+    "genericName": "Epinephrine",
+    "brandName": "Bosmin",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Potent β-receptor agonist producing dose-dependent increases in heart rate, stroke volume, and blood pressure; also exerts α-receptor–mediated vasoconstriction.",
+    "indications": [
+      "Cardiopulmonary resuscitation (first-line vasopressor)",
+      "Anaphylactic shock resuscitation",
+      "Third-line vasopressor in septic shock when hypotension remains refractory to norepinephrine ± vasopressin"
+    ],
+    "commonDosing": [
+      "Septic shock: continuous infusion, start 0.1 μg/kg/min IV; titrate upward as needed; maximum 0.5 μg/kg/min",
+      "CPR and anaphylaxis doses as per advanced life support and anaphylaxis protocols (see respective guidelines/chapters)"
+    ],
+    "adverseEffects": [
+      "Unwanted cardiac stimulation (tachycardia, arrhythmias)",
+      "Splanchnic hypoperfusion from α-mediated vasoconstriction (risk of mucosal barrier damage)",
+      "Increased metabolic rate (counterproductive in shock)",
+      "Hyperglycemia (α-mediated inhibition of insulin secretion)",
+      "Increased plasma lactate (from enhanced aerobic lactate production), which may be misleading in shock"
+    ],
+    "monitoring": [
+      "MAP/arterial blood pressure",
+      "Heart rate and rhythm",
+      "Signs of gut or peripheral ischemia",
+      "Serum glucose",
+      "Serum lactate (interpret with caution)"
+    ],
+    "contraindications": "",
+    "cautions": "At this institution, epinephrine is considered a third-line vasopressor in septic shock; metabolic and ischemic side effects limit its routine use. Interpret lactate cautiously when using epinephrine.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+  
+  "dopamine": {
+    "genericName": "Dopamine",
+    "brandName": "Dopamine",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Endogenous catecholamine and precursor of norepinephrine; exhibits dose-dependent effects: ≤3 μg/kg/min activates dopamine receptors (renal, splanchnic vasodilation); 3–10 μg/kg/min stimulates β-receptors (↑stroke volume, cardiac output); >10 μg/kg/min activates α-receptors (vasoconstriction, ↑SVR, ↑afterload).",
+    "indications": [
+      "Previously used as a vasopressor in septic shock (now largely replaced by norepinephrine)",
+      "Occasional use in cardiogenic shock with low cardiac output and bradycardia when norepinephrine is not suitable"
+    ],
+    "commonDosing": [
+      "Start at 5 μg/kg/min IV infusion; titrate upward as needed",
+      "5–10 μg/kg/min: usually increases cardiac output",
+      ">10 μg/kg/min: vasoconstriction and BP increase",
+      "Reported use up to 20–50 μg/kg/min, though higher doses increase adverse effects"
+    ],
+    "adverseEffects": [
+      "Tachycardia and troublesome tachyarrhythmias (e.g., atrial fibrillation), more frequent than with other vasopressors",
+      "Increased intraocular pressure reported even at low doses (1–4 μg/kg/min)",
+      "Excessive vasoconstriction and ↑afterload at high doses"
+    ],
+    "monitoring": [
+      "MAP/arterial blood pressure",
+      "Heart rate and rhythm (arrhythmia surveillance)",
+      "Signs of ischemia (cardiac, peripheral)",
+      "Ocular pressure if clinically relevant"
+    ],
+    "contraindications": "",
+    "cautions": "Fallen out of favor as first-line therapy in septic shock due to higher risk of tachyarrhythmias; benefits are dose-dependent but limited by adverse effects.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+  
+  "propofol": {
+    "genericName": "Propofol",
+    "brandName": "Fresofol",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Rapidly acting GABAergic sedative; produces sedation, amnesia, and anticonvulsant effects without analgesia.",
+    "indications": [
+      "Induction of general anesthesia",
+      "Sedation during mechanical ventilation in ICU patients",
+      "Procedural sedation"
+    ],
+    "commonDosing": [
+      "Bolus: produces sedation within 1–2 minutes, lasting 5–8 minutes (not recommended in hemodynamically unstable patients)",
+      "Continuous infusion: titrate to maintain light sedation when possible",
+      "High doses (>80 μg/kg/min or >5 mg/kg/hr for >48h) associated with propofol infusion syndrome (PRIS)"
+    ],
+    "adverseEffects": [
+      "Respiratory depression (requires mechanical ventilation support)",
+      "Hypotension due to systemic vasodilation (especially in hypovolemia or heart failure)",
+      "Hypertriglyceridemia (from lipid emulsion vehicle)",
+      "Necrotizing pancreatitis (rare)",
+      "Anaphylactoid reactions (uncommon)",
+      "Green urine discoloration (benign metabolite effect)",
+      "Propofol Infusion Syndrome (heart failure, lactic acidosis, rhabdomyolysis, renal failure, multiorgan failure; 30–35% mortality)"
+    ],
+    "monitoring": [
+      "Airway and ventilatory status",
+      "Blood pressure and hemodynamic status",
+      "Sedation depth (light vs deep sedation goals)",
+      "Serum triglycerides during prolonged infusion",
+      "Laboratory markers of metabolic acidosis, CK, renal function for early signs of PRIS"
+    ],
+    "contraindications": "",
+    "cautions": "Avoid loading doses in hemodynamically unstable patients; maintain light sedation to minimize delayed arousal; account for lipid calories (1 kcal/mL) in daily nutrition; monitor closely for PRIS when using prolonged high-dose infusions.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+  
+  "dexmedetomidine": {
+    "genericName": "Dexmedetomidine",
+    "brandName": "Precedex",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Selective α2-adrenergic agonist producing sedation, amnesia, and mild analgesia without ventilatory depression; sedation resembles natural sleep.",
+    "indications": [
+      "Sedation of mechanically ventilated ICU patients (preferred over benzodiazepines)",
+      "Situations requiring cooperative sedation (e.g., ventilator weaning, neurological evaluations in stroke/TBI)",
+      "Treatment of ICU-related delirium (drug of choice)",
+      "Procedural sedation in non-intubated patients"
+    ],
+    "commonDosing": [
+      "Loading dose: 1 μg/kg IV over 10 minutes (often omitted in ICU due to risk of hypotension/bradycardia)",
+      "Maintenance infusion: 0.2–0.7 μg/kg/hr (may increase up to 1.5 μg/kg/hr per institutional protocols)",
+      "No need for daily sedation interruption due to cooperative sedation profile"
+    ],
+    "adverseEffects": [
+      "Dose-dependent bradycardia and hypotension (sympatholytic effect)",
+      "Marked hemodynamic depression in conditions dependent on sympathetic tone (e.g., HFrEF)",
+      "Withdrawal syndrome with sympathetic overactivity (tachycardia, hypertension, agitation) in ~30% of patients, unrelated to dose or duration"
+    ],
+    "monitoring": [
+      "Heart rate and rhythm",
+      "Blood pressure and perfusion",
+      "Sedation depth (RASS or equivalent)",
+      "Signs of withdrawal upon discontinuation"
+    ],
+    "contraindications": "",
+    "cautions": "Avoid loading dose in hemodynamically unstable patients; anticipate bradycardia and hypotension; monitor for withdrawal syndrome; use with caution in advanced heart failure with reduced ejection fraction.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+  
+  "midazolam": {
+    "genericName": "Midazolam",
+    "brandName": "Dormicum",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Short-acting benzodiazepine; enhances GABA-A receptor activity to produce sedation, anxiolysis, amnesia, and anticonvulsant effects.",
+    "indications": [
+      "Procedural sedation (favored agent)",
+      "Short-term sedation in ICU patients",
+      "Adjunct in management of seizures or agitation"
+    ],
+    "commonDosing": [
+      "Bolus: sedation within 5 minutes, lasting 1–2 hours",
+      "Continuous infusion for prolonged sedation (limit to ≤48 hours to reduce risk of drug accumulation)",
+      "Metabolized by hepatic CYP450 system; interactions with enzyme inhibitors (e.g., diltiazem, erythromycin) can potentiate effect"
+    ],
+    "adverseEffects": [
+      "Respiratory depression",
+      "Hypotension",
+      "Drug accumulation and prolonged sedation with continuous infusion (especially >48h)",
+      "Prolonged effect with hepatic impairment or renal impairment (due to active metabolite)"
+    ],
+    "monitoring": [
+      "Airway and ventilatory status",
+      "Hemodynamics",
+      "Sedation depth (RASS or equivalent)",
+      "Renal and hepatic function for risk of accumulation",
+      "Drug interactions with CYP450 inhibitors"
+    ],
+    "contraindications": "",
+    "cautions": "Avoid prolonged continuous infusions due to drug accumulation and delayed awakening; higher risk of ICU-related delirium compared to non-benzodiazepine sedatives.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "lorazepam": {
+    "genericName": "Lorazepam",
+    "brandName": "Anxicam",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Intermediate-acting benzodiazepine; enhances GABA-A receptor activity, producing sedation, anxiolysis, amnesia, and anticonvulsant effects.",
+    "indications": [
+      "Continuous sedation in ICU patients (preferred benzodiazepine for prolonged infusion)",
+      "Management of anxiety and agitation",
+      "Treatment of alcohol or opioid withdrawal",
+      "Adjunct in seizure control"
+    ],
+    "commonDosing": [
+      "Bolus: rapid onset, effect lasting up to 6 hours",
+      "Continuous infusion: 0.01–0.1 mg/kg/hr; risk of propylene glycol toxicity if infusion >10 mg/hr or >0.1 mg/kg/hr beyond 48h"
+    ],
+    "adverseEffects": [
+      "Respiratory depression",
+      "Hypotension",
+      "Prolonged sedation and delayed awakening (less pronounced than midazolam)",
+      "Propylene glycol toxicity: metabolic acidosis, altered mentation, systemic inflammation, renal failure"
+    ],
+    "monitoring": [
+      "Airway and ventilatory status",
+      "Hemodynamics",
+      "Sedation depth (RASS or equivalent)",
+      "Osmolal gap (>10 mOsm/kg H2O suggests propylene glycol accumulation)",
+      "Renal and hepatic function"
+    ],
+    "contraindications": "",
+    "cautions": "Avoid high-dose or prolonged infusion due to risk of propylene glycol toxicity; monitor osmolal gap if infusion ≥0.1 mg/kg/hr or >10 mg/hr for >48h; associated with increased risk of ICU-related delirium compared with non-benzodiazepine sedatives.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "fentanyl": {
+    "genericName": "Fentanyl",
+    "brandName": "Fentanyl",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Synthetic μ-opioid receptor agonist; highly lipophilic, rapid onset; lacks histamine release compared with morphine.",
+    "indications": [
+      "Preferred opioid analgesic in ICUs",
+      "Analgesia for mechanically ventilated patients",
+      "Adjunct to sedation and procedural analgesia"
+    ],
+    "commonDosing": [
+      "IV bolus: onset rapid; titrate to effect",
+      "Continuous infusion: individualized dosing for ICU analgesia",
+      "Note: drug can accumulate in CNS with prolonged use"
+    ],
+    "adverseEffects": [
+      "Respiratory depression",
+      "Sedation and CNS accumulation with prolonged infusion",
+      "Bradycardia, chest wall rigidity (with rapid high-dose administration)",
+      "Possible accumulation in renal failure despite no active metabolites"
+    ],
+    "monitoring": [
+      "Respiratory rate and oxygenation",
+      "Hemodynamic stability",
+      "Analgesia and sedation depth",
+      "Accumulation risk in renal dysfunction"
+    ],
+    "contraindications": "",
+    "cautions": "Although fentanyl has no active metabolites, the parent drug may accumulate in renal failure; some recommend avoiding use in end-stage renal disease.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "morphine": {
+    "genericName": "Morphine",
+    "brandName": "Morphine",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Principal alkaloid of opium; μ-opioid receptor agonist with active metabolites that contribute to both analgesia and toxicity.",
+    "indications": [
+      "Traditional opioid analgesic for ICU pain control",
+      "Alternative to fentanyl when cost or availability is a concern"
+    ],
+    "commonDosing": [
+      "IV bolus or continuous infusion titrated to effect",
+      "Maintenance dose should be reduced by 50% in patients with renal failure due to metabolite accumulation"
+    ],
+    "adverseEffects": [
+      "Active metabolite accumulation in renal failure",
+      "Morphine-3-glucuronide: neurotoxic (myoclonus, seizures, agitation)",
+      "Morphine-6-glucuronide: potent analgesic metabolite",
+      "Histamine release → systemic vasodilation and hypotension"
+    ],
+    "monitoring": [
+      "Respiratory rate and oxygenation",
+      "Hemodynamics (risk of hypotension from histamine release)",
+      "Renal function to adjust maintenance dose",
+      "Neurological status for signs of metabolite toxicity"
+    ],
+    "contraindications": "",
+    "cautions": "Use with caution in renal failure; reduce dose to avoid metabolite accumulation. Histamine release may cause hypotension, especially in hyperadrenergic states. Does not cause bronchospasm despite histamine release.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "succinylcholine": {
+    "genericName": "Succinylcholine",
+    "brandName": "Relaxin",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Depolarizing neuromuscular blocker; binds to acetylcholine receptors, causing sustained depolarization and flaccid paralysis.",
+    "indications": [
+      "Rapid-sequence endotracheal intubation (RSI)",
+      "Situations requiring rapid onset and short duration of paralysis"
+    ],
+    "commonDosing": [
+      "IV bolus: 1.0 mg/kg for RSI",
+      "Onset: 60–90 seconds; Duration: 7–12 minutes"
+    ],
+    "adverseEffects": [
+      "Hyperkalemia (↑serum K+ up to 0.5 mEq/L, life-threatening in burns, rhabdomyolysis, SCI, malignant hyperthermia)",
+      "Contraindicated in patients with hyperkalemia or risk factors for potassium efflux",
+      "Malignant hyperthermia trigger",
+      "Fasciculations and myalgias"
+    ],
+    "monitoring": [
+      "Neuromuscular function (TOF when infusion or repeated doses)",
+      "Serum potassium in at-risk patients"
+    ],
+    "contraindications": "Hyperkalemia, malignant hyperthermia, rhabdomyolysis, severe burns, spinal cord injury with immobility",
+    "cautions": "Use only when rapid intubation is required and contraindications are excluded.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "rocuronium": {
+    "genericName": "Rocuronium",
+    "brandName": "Rocuronium",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Non-depolarizing aminosteroid neuromuscular blocker; competitively inhibits acetylcholine binding at nicotinic receptors.",
+    "indications": [
+      "Endotracheal intubation when succinylcholine is contraindicated",
+      "Facilitation of mechanical ventilation",
+      "Adjunct during procedures requiring paralysis"
+    ],
+    "commonDosing": [
+      "IV bolus: 1.0 mg/kg for intubation (onset ≈ 1.5–3 min, comparable to succinylcholine)",
+      "Maintenance: infusion titrated to TOF monitoring",
+      "Duration: 30–70 minutes (intermediate)"
+    ],
+    "adverseEffects": [
+      "Prolonged duration of paralysis (especially with hepatic dysfunction)",
+      "Risk of residual paralysis if not reversed",
+      "Rare anaphylaxis"
+    ],
+    "monitoring": [
+      "Train-of-four (TOF) stimulation, target 1–2/4 twitches",
+      "Adequate sedation and analgesia during paralysis",
+      "Hemodynamic status"
+    ],
+    "contraindications": "",
+    "cautions": "Longer duration than succinylcholine may complicate failed airway; reversal with sugammadex (16 mg/kg for immediate reversal) available.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "cisatracurium": {
+    "genericName": "Cisatracurium",
+    "brandName": "Nimbex",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Non-depolarizing benzylisoquinolinium neuromuscular blocker; competitively inhibits acetylcholine receptors; eliminated by Hofmann degradation (organ-independent).",
+    "indications": [
+      "ICU paralysis for ventilator synchrony in ARDS or severe hypoxemia",
+      "Prevention of shivering during induced hypothermia",
+      "Adjunct to control intracranial pressure or facilitate procedures"
+    ],
+    "commonDosing": [
+      "Onset: 5–7 minutes; Duration: 35–50 minutes (intermediate)",
+      "Infusion titrated to TOF monitoring"
+    ],
+    "adverseEffects": [
+      "Prolonged paralysis and weakness with prolonged infusion",
+      "Critical illness myopathy (with steroids/neuromuscular blockers)",
+      "Minimal histamine release (unlike atracurium)"
+    ],
+    "monitoring": [
+      "Train-of-four (TOF) target 1–2/4 twitches",
+      "Adequate analgesia and sedation (patients may be awake while paralyzed)",
+      "Eye care, pressure ulcer prevention, DVT prophylaxis"
+    ],
+    "contraindications": "",
+    "cautions": "Elimination independent of renal or hepatic function; useful in organ failure. Avoid prolonged paralysis due to risk of ICU-acquired weakness.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "neostigmine": {
+    "genericName": "Neostigmine",
+    "brandName": "Neostigmine",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Acetylcholinesterase inhibitor; increases acetylcholine levels at neuromuscular junction, overcoming competitive blockade by non-depolarizing agents.",
+    "indications": [
+      "Reversal of non-depolarizing neuromuscular blockade (e.g., rocuronium, cisatracurium, vecuronium)"
+    ],
+    "commonDosing": [
+      "IV 70 μg/kg (max dose), typically with an anticholinergic (e.g., glycopyrrolate) to reduce muscarinic side effects",
+      "Reversal time varies 8–45 minutes depending on depth of block and anesthetic agents"
+    ],
+    "adverseEffects": [
+      "Parasympathomimetic effects: bradycardia, bronchospasm, salivation, GI upset",
+      "Incomplete or delayed reversal if deep block",
+      "Risk of muscarinic side effects if not co-administered with anticholinergic agent"
+    ],
+    "monitoring": [
+      "Train-of-four (TOF) monitoring for adequacy of reversal",
+      "Heart rate and rhythm during administration",
+      "Signs of cholinergic excess"
+    ],
+    "contraindications": "",
+    "cautions": "Do not exceed 70 μg/kg due to risk of muscarinic toxicity; reversal slower and less predictable than sugammadex.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "sugammadex": {
+    "genericName": "Sugammadex",
+    "brandName": "Sugammadex",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Selective relaxant binding agent; encapsulates aminosteroid neuromuscular blockers (especially rocuronium, vecuronium), removing them from the neuromuscular junction.",
+    "indications": [
+      "Rapid reversal of rocuronium- or vecuronium-induced neuromuscular blockade",
+      "Rescue reversal in failed airway scenarios after rocuronium"
+    ],
+    "commonDosing": [
+      "16 mg/kg IV for immediate reversal (e.g., failed intubation rescue) — onset 2–3 minutes",
+      "4 mg/kg IV for deep blockade",
+      "2 mg/kg IV for moderate blockade",
+      "Reversal is consistently faster than neostigmine, without muscarinic side effects"
+    ],
+    "adverseEffects": [
+      "Hypersensitivity reactions (rare)",
+      "Bradycardia (rare, but reported)",
+      "Cost considerations compared with neostigmine"
+    ],
+    "monitoring": [
+      "Train-of-four (TOF) monitoring",
+      "Heart rate and rhythm after administration",
+      "Clinical recovery of muscle strength"
+    ],
+    "contraindications": "",
+    "cautions": "Binds only aminosteroid neuromuscular blockers (rocuronium, vecuronium, pancuronium); not effective against benzylisoquinolinium agents like cisatracurium.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "amiodarone": {
+    "genericName": "Amiodarone",
+    "brandName": "Cordarone",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Class III antiarrhythmic with multiple channel-blocking properties (Na, K, Ca) and non-competitive β-blockade; effective in rate control and rhythm conversion.",
+    "indications": [
+      "Alternative to diltiazem or beta blockers in atrial fibrillation/flutter when resistant or intolerant",
+      "Favored in patients with heart failure and reduced ejection fraction (less cardiac depression)",
+      "Conversion of atrial fibrillation to sinus rhythm (variable efficacy)",
+      "Management of ventricular tachyarrhythmias"
+    ],
+    "commonDosing": [
+      "IV: total loading ≈ 1 g over first 24h (e.g., 150 mg IV over 10 min, then 1 mg/min for 6h, then 0.5 mg/min for 18h)",
+      "Transition to PO: start 400 mg PO 4–5h before stopping infusion; continue 400 mg PO BID until total loading dose (IV+PO) ≈ 10 g",
+      "Maintenance: 100–200 mg PO daily"
+    ],
+    "adverseEffects": [
+      "Hypotension (mostly solvent-related with IV polysorbate 80 formulation)",
+      "QT prolongation and rare torsades de pointes",
+      "Drug interactions via CYP450 inhibition (notably ↑digoxin and ↑warfarin levels)",
+      "Long-term toxicities (e.g., pulmonary fibrosis, thyroid dysfunction) not seen with short-term IV use"
+    ],
+    "monitoring": [
+      "Blood pressure and rhythm during infusion",
+      "QT interval on ECG",
+      "Serum digoxin and INR if concomitant therapy",
+      "Transitioning regimen to oral dosing"
+    ],
+    "contraindications": "",
+    "cautions": "IV hypotension is formulation-related (solvent); aqueous formulations reduce this risk. Use caution with concomitant digoxin or warfarin (requires dose adjustment and monitoring).",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "nitroglycerin": {
+    "genericName": "Nitroglycerin",
+    "brandName": "NTG",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Organic nitrate; venodilator and arterial vasodilator via nitric oxide–mediated smooth muscle relaxation; reduces preload and afterload, improving myocardial oxygen balance.",
+    "indications": [
+      "Relief of angina pectoris (sublingual tablet or spray)",
+      "Adjunct in acute coronary syndrome (ACS) with hypertension or decompensated heart failure",
+      "Vasodilator of choice for hypertensive acute heart failure"
+    ],
+    "commonDosing": [
+      "Sublingual: 0.3–0.6 mg q5min PRN for chest pain, up to 3 doses in 15 minutes",
+      "IV infusion: start at 5 μg/min, increase by 5 μg/min every 5 min to effect",
+      "Usual effective dose: 5–100 μg/min; avoid >200 μg/min",
+      "Avoid infusion beyond 24h (tachyphylaxis common)"
+    ],
+    "adverseEffects": [
+      "Hypotension",
+      "Headache",
+      "Tachyphylaxis after 24h continuous infusion",
+      "Propylene glycol toxicity with prolonged infusion (lactic acidosis, delirium, hypotension, multiorgan failure)",
+      "Methemoglobinemia with very high doses"
+    ],
+    "monitoring": [
+      "Blood pressure and heart rate",
+      "Clinical response (angina relief, hemodynamics in HF/ACS)",
+      "Signs of tachyphylaxis after 24h",
+      "Methemoglobin level if unexplained hypoxemia during very high dosing"
+    ],
+    "contraindications": "Right ventricular infarction, severe aortic stenosis, concurrent use of phosphodiesterase-5 inhibitors within past 24–48h",
+    "cautions": "Drug adsorbs to PVC tubing and bags, causing up to 80% loss; use glass bottles and polyethylene tubing. Avoid prolonged infusion (>24h) due to tachyphylaxis and solvent toxicity.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  },
+
+  "nicardipine": {
+    "genericName": "Nicardipine",
+    "brandName": "Perdipine",
+    "lastReviewed": "2025-09-18",
+    "mechanismOfAction": "Calcium channel blocker (dihydropyridine class); arterial vasodilator that reduces systemic vascular resistance and blood pressure.",
+    "indications": [
+      "IV antihypertensive therapy in ICU",
+      "Adjunct in acute aortic dissection (only in combination with a β-blocker to prevent reflex tachycardia and increased shear stress)"
+    ],
+    "commonDosing": [
+      "Start infusion at 5 mg/hr",
+      "Increase by 2.5 mg/hr every 5 min as needed",
+      "Maximum dose: 15 mg/hr",
+      "Always combine with a β-blocker (e.g., esmolol) in aortic dissection"
+    ],
+    "adverseEffects": [
+      "Reflex tachycardia (if used without β-blocker)",
+      "Hypotension",
+      "Headache, flushing"
+    ],
+    "monitoring": [
+      "Blood pressure (goal systolic ≈ 120 mmHg in aortic dissection, tolerance down to 90 mmHg)",
+      "Heart rate (avoid reflex tachycardia)",
+      "Signs of end-organ perfusion"
+    ],
+    "contraindications": "",
+    "cautions": "Must be combined with β-blocker in aortic dissection to avoid reflex tachycardia and increased shear forces. Not a substitute for definitive surgical repair in type A dissection.",
+    "sources": [
+      { "label": "Marino PL. The ICU Book, 5th ed." }
+    ]
+  }
+
+}
