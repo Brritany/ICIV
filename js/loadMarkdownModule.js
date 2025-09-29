@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // ===== Module 3: 常見外科手術 =====
   const SURG_TABS = [
     { name: "肝膽外科", file: "md/surgery/liver.md" },
-    { name: "胰髒外科", file: "md/surgery/pancreas.md" },
+    { name: "胰臟外科", file: "md/surgery/pancreas.md" },
     { name: "大腸直腸外科", file: "md/surgery/colorectal.md" },
     { name: "胸腔外科", file: "md/surgery/thoracic.md" },
     { name: "泌尿外科", file: "md/surgery/uro.md" }
