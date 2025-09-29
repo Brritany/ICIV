@@ -4,10 +4,10 @@
 
 ## 1. 肝臟解剖介紹（Overview of Anatomy）
 
-![Liver anatomy — anterior & posterior views](images/liver_anatomy.png)
+![Liver anatomy — anterior & posterior views](images/liver_anatomy.webp)
 *Anterior 與 Posterior 視角：可見 left/right lobe、falciform/round/coronary ligaments、caudate lobe、quadrate lobe、gallbladder 等結構。*
 
-![Liver anatomy — Couinaud segments](images/liver_anatomy2.jpg)
+![Liver anatomy — Couinaud segments](images/liver_anatomy2.webp)
 *Couinaud 分段：肝臟分為 8 個 segment，對應右/左葉及其功能性區域。*
 
 ## 肝臟解剖與生理（Hepatic Anatomy & Physiology）
@@ -96,7 +96,7 @@
 
 ## 2. 肝細胞癌（HCC）概覽
 
-![BCLC staging and treatment strategy (2022)](images/hcc_bclc.jpg)  
+![BCLC staging and treatment strategy (2022)](images/hcc_bclc.webp)  
 *Fig. 1. Barcelona Clinic Liver Cancer (BCLC) staging and treatment strategy, 2022 update.*
 
 ### 2.1 常用分期與處置路徑（BCLC 思維）
@@ -146,7 +146,7 @@
 
 ### 3.1 經導管動脈化療栓塞／栓塞（TACE／TAE, Transarterial Chemoembolization / Embolization）
 
-![TACE schematic](images/tace.png)  
+![TACE schematic](images/tace.webp)  
 *Fig. 2. Transarterial chemoembolization (TACE) schematic.*
 
 #### 概念與基本原理
@@ -215,7 +215,7 @@
 
 ### 3.4 門靜脈栓塞（Portal Vein Embolization, PVE）
 
-![PVE schematic](images/pve.png)  
+![PVE schematic](images/pve.webp)  
 *Fig. 1. Portal Vein Embolization (PVE) schematic.*
 
 - **定義與作用**：術前門靜脈栓塞（Preoperative PVE）是一種在大型肝切除（特別是右半肝切除）前的輔助手段，可誘導 **Future liver remnant (FLR, 預期殘肝體積)** 的代償性肥大，增加可切除率並降低術後肝衰竭風險。  
@@ -241,7 +241,7 @@
 
 ### 3.5 射頻消融（Radiofrequency Ablation, RFA）
 
-![RFA](images/rfa.png)  
+![RFA](images/rfa.webp)  
 *Fig. 3. Radiofrequency ablation procedure schematic.*
 
 - **原理**：利用高頻交流電產生熱效應，使腫瘤組織局部升溫（60–100°C）並凝固壞死。  
@@ -262,7 +262,7 @@
 
 ### 3.6 微波消融（Microwave Ablation, MWA）
 
-![MWA](images/mwa.png)  
+![MWA](images/mwa.webp)  
 *Fig. 3. Microwave Ablation procedure schematic.*
 
 - **原理**：利用微波能量使水分子振盪，產生更高溫度與更大範圍的組織壞死，相較 RFA 對「熱沉效應」影響較小。  
@@ -323,7 +323,7 @@
 
 ### 4.2 ERCP（Endoscopic Retrograde Cholangiopancreatography）
 
-![ERCP](images/ercp.png)  
+![ERCP](images/ercp.webp)  
 *Fig. 2. Endoscopic Retrograde Cholangiopancreatography schematic.*
 
 #### 基本概念
@@ -382,7 +382,7 @@
 
 ### 5.1 PTCD（Percutaneous Transhepatic Cholangiography and Drainage）
 
-![PTCD](images/ptcd.png)  
+![PTCD](images/ptcd.webp)  
 *Fig. 1. Percutaneous Transhepatic Cholangiography and Drainage schematic.*
 
 #### 基本概念
@@ -414,7 +414,7 @@
 
 ### 5.2 PTGBD（Percutaneous Transhepatic Gallbladder Drainage）
 
-![PTGBD](images/ptgbd.png)  
+![PTGBD](images/ptgbd.webp)  
 *Fig. 2. Percutaneous Transhepatic Gallbladder Drainage schematic.*
 
 #### 基本概念
@@ -515,7 +515,7 @@
 
 ### 6.2 Types of Hepatic Resection（肝臟切除類型）
 
-![Types of Hepatic Resection — schematic](images/types_of_hepatic_resection.png)  
+![Types of Hepatic Resection — schematic](images/types_of_hepatic_resection.webp)  
 *Fig. 1. 常見肝臟切除方式*
 
 #### Liver anatomy — Hepatic sections
@@ -552,7 +552,7 @@
 
 ### 6.3 Cholecystectomy（膽囊切除）
 
-![Gallbladder](images/cholecystectomy.png)  
+![Gallbladder](images/cholecystectomy.webp)  
 *Fig. 2. Laparoscopic cholecystectomy schematic.*
 
 - **常見適應症**：症狀性膽結石、急／慢性膽囊炎、膽囊息肉（≥10 mm 或高風險特徵）。  

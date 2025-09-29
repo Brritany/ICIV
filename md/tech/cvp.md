@@ -31,7 +31,7 @@
 - **x 下降**：心房舒張  
 - **y 下降**：心室早期充盈  
 
-![CVP Waveform](images/cvp_waveform.png)  
+![CVP Waveform](images/cvp_waveform.webp)  
 *CVP 波形示意圖 (a, c, v 波與 x, y 下降)*
 
 ---
@@ -61,7 +61,7 @@
 - **測量時機**  
   - 建議在 **呼氣末** 讀取數值，以減少胸腔壓力變化干擾  
 
-![CVP Measurement](images/cvp_measurement.png)  
+![CVP Measurement](images/cvp_measurement.webp)  
 *CVP 測量示意圖*
 
 ---

@@ -1,6 +1,6 @@
 # 常見血品 (Common Blood Components)
 
-![Common Blood Components](images/blood.png)
+![Common Blood Components](images/blood.webp)
 *常見血品 (Common Blood Components)*
 
 ## 減白紅血球濃厚液 (Leukocyte-poor Red Blood Cells, LR-RBC)

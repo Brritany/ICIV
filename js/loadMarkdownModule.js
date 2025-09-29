@@ -86,7 +86,7 @@ function initMarkdownModule(tabsId, containerId, tabs) {
         if (!md.trim()) {
           container.innerHTML = `
             <div style="text-align:center; padding:20px;">
-              <img src="images/WEBSTE_UNDER_CONSTRUCTIONN.png" alt="施工中" style="max-width:720px; width:60%; margin:0 auto 16px; display:block;">
+              <img src="images/WEBSTE_UNDER_CONSTRUCTIONN.webp" alt="施工中" style="max-width:720px; width:60%; margin:0 auto 16px; display:block;">
               <p style="font-size:18px; color:#666;">此內容正在建置中，敬請期待！</p>
             </div>`;
         } else {
@@ -96,7 +96,7 @@ function initMarkdownModule(tabsId, containerId, tabs) {
       .catch(err => {
         container.innerHTML = `
           <div style="text-align:center; padding:20px;">
-            <img src="images/WEBSTE_UNDER_CONSTRUCTIONN.png" alt="施工中" style="max-width:720px; width:60%; margin:0 auto 16px; display:block;">
+            <img src="images/WEBSTE_UNDER_CONSTRUCTIONN.webp" alt="施工中" style="max-width:720px; width:60%; margin:0 auto 16px; display:block;">
             <p style="font-size:18px; color:#666;">此模組內容尚未完成 (${file})</p>
           </div>`;
       });
@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .catch(err => {
       document.getElementById("drainMdContainer").innerHTML = `
         <div style="text-align:center; padding:20px;">
-          <img src="images/WEBSTE_UNDER_CONSTRUCTIONN.png" alt="施工中" style="max-width:720px; width:60%; margin:0 auto 16px; display:block;">
+          <img src="images/WEBSTE_UNDER_CONSTRUCTIONN.webp" alt="施工中" style="max-width:720px; width:60%; margin:0 auto 16px; display:block;">
           <p style="font-size:18px; color:#666;">常見引流管內容尚未完成</p>
         </div>`;
     });

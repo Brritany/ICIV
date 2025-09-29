@@ -10,7 +10,7 @@
 
 ## **Milking 技術**
 
-![Drain Milking](images/drain_milking.png)  
+![Drain Milking](images/drain_milking.webp)  
 
 - 可利用壓指 (milking) 或擠通 (stripping) 的方式，保持胸管及其他引流管暢通，避免血塊堵塞。  
 - 依照單位規範與醫師指示執行，避免造成負壓波動或回流。  
@@ -19,7 +19,7 @@
 
 ## 圖示補充：引流管型態與腹腔液體積聚位置
 
-![Drain types and fluid accumulation sites](images/drain.png)  
+![Drain types and fluid accumulation sites](images/drain.webp)  
 *不同引流管型態 (Robinson, Jackson-Pratt, Silicone drain) 與臥床病人常見液體積聚位置，包括膈下、旁結腸及骨盆腔等。此圖同時顯示了液體可能的傳播方向與典型積聚空間。*
 
 ### 臨床意義
@@ -43,7 +43,7 @@
 
 ## 1. 橡皮引流管 (Rubber Drain)
 
-![Rubber Drain](images/rubber_drain.png)  
+![Rubber Drain](images/rubber_drain.webp)  
 *橡皮引流管：常用於腹部手術後，依靠重力排液。*
 
 ### 用途
@@ -68,7 +68,7 @@
 
 ## 2. 負壓引流管 CWV / Jackson-Pratt Ball (JP, 手榴彈)
 
-![CWV Drain](images/cwv_drain.png)  
+![CWV Drain](images/cwv_drain.webp)  
 
 *CWV/JP Drain：俗稱手榴彈，以負壓持續排液。*
 
@@ -87,7 +87,7 @@
 
 ## 3. 香菸引流管 (Penrose Drain)
 
-![Penrose Drain](images/penrose_drain.png)  
+![Penrose Drain](images/penrose_drain.webp)  
 *Penrose Drain：俗稱「種蔥」，依靠毛細作用引流。*
 
 ### 用途
@@ -103,7 +103,7 @@
 
 ## 4. 負壓真空引流 Hemovac (便當盒) / Mini Vac Drain (小燈籠)
 
-![Hemovac Drain](images/hemovac.png)  
+![Hemovac Drain](images/hemovac.webp)  
 *Hemovac：常用於骨科手術，依靠負壓抽吸。*
 
 ### 用途
@@ -116,14 +116,14 @@
 - 維持負壓，全壓/半壓依醫囑。  
 - 液體過多或壓力不足時需更換。  
 
-![Compare different vaccum drain](images/vaccum_drain_compare.png)  
+![Compare different vaccum drain](images/vaccum_drain_compare.webp)  
 *比較不同負壓引流裝置*
 
 ---
 
 ## 5. T 型管 (T-tube)
 
-![T-tube](images/t_tube.png)  
+![T-tube](images/t_tube.webp)  
 *T 型管：肝膽手術後常用，維持膽汁引流。*
 
 ### 用途
@@ -138,10 +138,10 @@
 
 ## 6. 豬尾巴引流管 (Pigtail Drain)
 
-![Pigtail Drain Introduction](images/pigtail_intro.png)  
+![Pigtail Drain Introduction](images/pigtail_intro.webp)  
 *Pigtail Drain：常用於氣胸、血胸與肝膿瘍引流。*
 
-![Pigtail Drain](images/pigtail_drain.png)  
+![Pigtail Drain](images/pigtail_drain.webp)  
 *Pigtail Drain：常用於氣胸、血胸與肝膿瘍引流。*
 
 ### 用途
@@ -158,7 +158,7 @@
 
 ## 7. 腎臟造口引流 (Percutaneous Nephrostomy, PCN)
 
-![PCN](images/pcn.png)  
+![PCN](images/pcn.webp)  
 *PCN：經皮腎造口，用於腎盂積水或阻塞。*
 
 ### 用途
@@ -182,7 +182,7 @@
 
 ## 8. 膀胱造廔管 (Cystostomy / Cystofix)
 
-![Cystostomy Drain](images/cystostomy.png)  
+![Cystostomy Drain](images/cystostomy.webp)  
 *Cystostomy：長期尿液引流方式之一。*
 
 ### 用途
@@ -199,7 +199,7 @@
 
 ## 9. 單/雙 J 導管 (Single J / Double J) 與 迴腸泌尿造口 (Ileal Conduit)
 
-![Double J Stent](images/double_j.png)  
+![Double J Stent](images/double_j.webp)  
 *Double J Stent 維持輸尿管通暢*
 
 ### 單/雙 J 導管 (Single J / Double J)
@@ -211,7 +211,7 @@
 
 ### 迴腸泌尿造口
 
-![Ileal Conduit](images/ileal_conduit.png)  
+![Ileal Conduit](images/ileal_conduit.webp)  
 *Ileal Conduit：膀胱切除後尿液引流。*
 
 - 膀胱切除後以小腸段做新尿液出口。  
@@ -224,7 +224,7 @@
 
 ## 10. 胸管 (Chest Tube)
 
-![Botle Systems](images/botle_systems.png)  
+![Botle Systems](images/botle_systems.webp)  
 *Chest Tube：常用於氣胸、血胸、膿胸患者。*
 
 ### 用途
@@ -247,7 +247,7 @@
 
 ### Low pressure
 
-![Low Pressure](images/low_pressure.png)  
+![Low Pressure](images/low_pressure.webp)  
 *Low Pressure：常用引流量多、胸瓶功能不佳、肺擴張不全者。*
 
 負壓抽吸原理是因為體內的環境不是正壓所以必須以負壓抽吸才抽的出，使用胸腔引流術的目的是為了排除肋膜腔的空氣及水分，幫助恢復肋膜腔的負壓，使肺部重新擴張，使用重力、真空抽吸、密閉及無菌的原理，負壓引流能夠加速氣體/液體的流出，視情況決定開多少壓力。

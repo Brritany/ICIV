@@ -2,10 +2,10 @@
 
 ---
 
-![Pancreas Anatomy Part 1](images/pancreas_anatomy.png)  
+![Pancreas Anatomy Part 1](images/pancreas_anatomy.webp)  
 *Pancreas anatomical regions and vascular relations*
 
-![Pancreas Anatomy Part 2](images/pancreas_anatomy_1.png)  
+![Pancreas Anatomy Part 2](images/pancreas_anatomy_1.webp)  
 *Pancreas anatomy with exocrine and endocrine structures*
 
 ## 1. 正常解剖 (Anatomy)
@@ -33,7 +33,7 @@
 
 ## 1.1 十二指腸 (Duodenum)
 
-![Duodenum](images/duodenum.png)  
+![Duodenum](images/duodenum.webp)  
 
 十二指腸全長約 **25 cm**，環繞胰頭，分為四段 (D1–D4)，是 **膽汁與胰液進入腸道的主要場所**，在消化與吸收中扮演重要角色。
 
@@ -152,7 +152,7 @@
 
 - 適應症：腫瘤位於 **胰尾 (Tail)**，因與脾臟相連，多需一併切除  
 
-![Distal Pancreatectomy with Splenectomy](images/distal_pancreatectomy.png)
+![Distal Pancreatectomy with Splenectomy](images/distal_pancreatectomy.webp)
 
 ---
 
@@ -161,14 +161,14 @@
 - 適應症：腫瘤廣泛或累及整個胰腺  
 - 影響：術後需 **終生胰島素治療** + **外分泌酵素補充**  
 
-![Total Pancreatectomy](images/total_pancreatectomy.png)
+![Total Pancreatectomy](images/total_pancreatectomy.webp)
 
 ---
 
 ### III. 胰臟十二指腸切除術 (Pancreaticoduodenectomy (Whipple Procedure))
 
 - 適應症：腫瘤位於 **胰頭、胰頸、胰體前段或勾突**  
-![Whipple Procedure](images/whipple_procedure.png)
+![Whipple Procedure](images/whipple_procedure.webp)
 
 ---
 
@@ -178,18 +178,18 @@
   - 適應症：侵犯 **SMV / PV / Splenic Vein**  
   - 特點：保留脾動脈，自左側清除 SMA 周圍腫瘤  
 
-![WATSA](images/watsa.png)
+![WATSA](images/watsa.webp)
 
 - **Whipple Over the Splenic Artery (WOTSA)**  
   - 適應症：侵犯 **GDA 與 Splenic Artery**，但無需全胰切除  
   - 特點：保留脾臟與胰尾，較具器官保留性  
 
-![WOTSA](images/wotsa.png)
+![WOTSA](images/wotsa.webp)
 
 - **保留幽門胰十二指腸切除術 (Pylorus-Preserving Pancreaticoduodenectomy, PPPD)**
   - 特點：保留胃幽門 (Pylorus)，可減少營養不良與胃排空障礙  
 
-![PPPD](images/pppd.png)
+![PPPD](images/pppd.webp)
 
 ---
 
@@ -232,12 +232,12 @@ Whipple dissection levels (LV-1, LV-2, LV-3) 描述在 **胰十二指腸切除�
   - 建立膽汁繞道，緩解阻塞性黃疸  
   - 將小腸的一部分（空腸）重新排列成“Y”形，並將其遠端連接到肝管（肝空腸吻合術），使膽汁可以繞過阻塞部位直接流入腸道。
 
-![Roux-en-Y Hepaticojejunostomy](images/Roux-en-y-hepaticojejunostomy.png)
+![Roux-en-Y Hepaticojejunostomy](images/Roux-en-y-hepaticojejunostomy.webp)
 
 - **Antecolic Loop Gastrojejunostomy**  
   - 建立 **胃—空腸繞道**，解除腸阻塞與胃出口梗阻  
 
-![Antecolic Loop Gastrojejunostomy](images/gastrojejunostomy.png)
+![Antecolic Loop Gastrojejunostomy](images/gastrojejunostomy.webp)
 
 ---
 
@@ -253,7 +253,7 @@ Whipple dissection levels (LV-1, LV-2, LV-3) 描述在 **胰十二指腸切除�
 | **對血管影響** | 組織刺激、炎症，但少直接破壞血管 | 蛋白酶降解組織，造成自我消化 | 血管壁保護屏障被膽汁破壞 → 胰酶加速分解 → **高風險 pseudoaneurysm** |
 | **臨床結果** | 膽汁性腹膜炎、膿瘍 | 胰液性腹膜炎、胰瘻 | 假性動脈瘤（Pseudoaneurysm）、致命性大出血 |
 
-![Aneurysm & Pseudoaneurysm](images/Aneurysm-vs-Pseudo-Aneurysm.png)
+![Aneurysm & Pseudoaneurysm](images/Aneurysm-vs-Pseudo-Aneurysm.webp)
 
 ---
 

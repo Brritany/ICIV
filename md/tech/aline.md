@@ -2,10 +2,10 @@
 
 ## 簡介 (Introduction)
 
-![A-line Introduction](images/aline.png)  
+![A-line Introduction](images/aline.webp)  
 *A-line介紹*
 
-![A-line Type](images/aline_type.png)  
+![A-line Type](images/aline_type.webp)  
 *A-line不同傳輸導線介紹*
 
 - **定義 (Definition)**：A-line 又稱動脈導管 (arterial catheter, arterial cannula)，常用於高風險手術及重症病人，由導針、壓力傳感器 (Transducer)、管路、沖洗液所組成
@@ -38,14 +38,14 @@
   - 周邊：橈動脈 (Radial, 最常用)、肱動脈 (Brachial)、足背動脈 (Dorsalis pedis, 小兒較常用)  
   - 中樞：股動脈 (Femoral, 最常用)、腋動脈 (Axillary)  
 
-![Radial Site](images/radial_site.png)  
+![Radial Site](images/radial_site.webp)  
 *橈動脈穿刺位置 Radial artery site*
 
 ---
 
 ### 橈動脈側枝循環評估（Allen / Modified Allen Test）
 
-![Allen Test](images/allen_test.png)  
+![Allen Test](images/allen_test.webp)  
 *Allen test 評估橈動脈置管前之尺動脈側枝循環*
 
 #### Allen Test（標準）
@@ -106,7 +106,7 @@
   - 切跡 (Dicrotic notch) → 主動脈瓣關閉  
   - 舒張期下降 (Diastolic runoff) → 血管阻力  
 
-![Arterial Waveform](images/arterial_waveform.png)  
+![Arterial Waveform](images/arterial_waveform.webp)  
 *動脈壓波形 Arterial pressure waveform*
 
 ---
@@ -150,7 +150,7 @@
 | **Overdamped (damping, 平掉了)** | 波形平坦、切跡消失、收縮壓偏低、舒張壓偏高 | 可能因 **氣泡、血塊、導管扭曲、導管阻塞**；需排查系統問題 |
 | **Underdamped (又稱overshooting)** | 波形過度震盪 (ringing)、收縮壓偏高、舒張壓偏低，脈壓過寬 | 常因 **導管/延長管過長、過多三通接頭、系統共振**；臨床上血壓易被高估 |
 
-![Arterial Waveform Damping](images/abnormal_waveforms.png)  
+![Arterial Waveform Damping](images/abnormal_waveforms.webp)  
 *Normal、Overdamped、Underdamped的動脈壓波形*
 
 > ⚠️ 血壓太高、太低時，看一下wave是否正確

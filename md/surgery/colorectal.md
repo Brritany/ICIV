@@ -2,7 +2,7 @@
 
 ## 基本解剖 (Anatomy)
 
-![Colon Anatomy](images/colon_anatomy.png)
+![Colon Anatomy](images/colon_anatomy.webp)
 
 - **大腸分段**  
   - 盲腸 (cecum) 與闌尾 (appendix)  
@@ -82,7 +82,7 @@
   - 腹腔鏡（Laparoscopy）：併發症少、恢復快、長期存活率相似  
   - 機器人手術（Robotics Assistant）：操作精細，但成本高、時間長  
 
-![Types of Colectomy](images/colectomy-types.jpg)
+![Types of Colectomy](images/colectomy-types.webp)
 
 - **Colon Resection Types**  
   - **Segmental colectomy** – 區段切除  
@@ -155,7 +155,7 @@
 
 ### 吻合方式介紹
 
-![Anastomosis Types](images/anastomotic.png)
+![Anastomosis Types](images/anastomotic.webp)
 
 - **End-to-End (端對端吻合)**  
   - 將兩段腸道的斷端直接縫合或釘合在一起  
@@ -180,7 +180,7 @@
 
 ### 造口種類 (Types of Ostomy)
 
-![Ostomy Types](images/ostomy_type.png)
+![Ostomy Types](images/ostomy_type.webp)
 
 - **Ileostomy (迴腸造口)**  
   - 液態/半液態，含消化酶，對皮膚刺激性大  
@@ -213,7 +213,7 @@
 
 ### 造口照護方式 (Ostomy Care)
 
-![Ostomy Care](images/ostomy_care.png)
+![Ostomy Care](images/ostomy_care.webp)
 
 ---
 

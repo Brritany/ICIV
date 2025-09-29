@@ -140,7 +140,7 @@ Objectives of mechanical ventilation
 
 ## 呼吸器模式總覽（MODES OF VENTILATION）
 
-![Patient–Ventilator Interaction](images/Patientventiltrinteractn.png)
+![Patient–Ventilator Interaction](images/Patientventiltrinteractn.webp)
 *Patient–Ventilator Interaction 圖示呼吸器觸發、目標與循環*  
 
 ### 兩大分類（Breath Strategies）
@@ -211,7 +211,7 @@ Typical initial ventilator settings
 
 ## 常見呼吸器現象（PHENOMENA）
 
-![Auto-PEEP](images/auto_peep.png)
+![Auto-PEEP](images/auto_peep.webp)
 *Auto-PEEP 示意圖，顯示呼氣未完全時殘留正壓*  
 
 - **Auto-PEEP（自動呼氣末正壓 / Intrinsic PEEP, Dynamic Hyperinflation）**  
@@ -220,7 +220,7 @@ Typical initial ventilator settings
   - **臨床表現**：病人吸氣困難、呼吸窘迫、呼吸器壓力曲線上升；嚴重時可造成低血壓甚至氣壓傷。  
   - **處理方式**：延長呼氣時間（調整 I:E 比）、降低呼吸頻率、減少潮氣量、提高吸氣流速、吸痰與支氣管擴張治療。  
 
-![Double Trigger](images/double_triggering.png)
+![Double Trigger](images/double_triggering.webp)
 *Double Trigger 示意圖，顯示連續兩次潮氣量* 
 
 - **Double Trigger（雙重觸發）**  
@@ -260,7 +260,7 @@ Typical initial ventilator settings
 
 ### T-Piece  
 
-![T-Piece](images/t_piece.png)
+![T-Piece](images/t_piece.webp)
 *T-Piece 用於自發呼吸試驗（SBT）*  
 
 - **流程**：呼吸器 standby → T 型接管 + 濕化瓶 → 氧流量 8 L/min (FiO₂ 35%)，依醫囑調整氧氣需求。  
@@ -314,7 +314,7 @@ Parameters of weaning failure
 
 ### Cuff-Leak Test（氣囊漏氣測試）
 
-![Cuff Leak Test](images/cuff_leak_test.png)
+![Cuff Leak Test](images/cuff_leak_test.webp)
 *Cuff Leak Test 評估拔管後氣道是否水腫*  
 
 - **定義**：拔管前的一種評估方法，透過放掉氣管內管（Endotracheal Tube, ETT）氣囊的空氣，觀察是否有足夠氣流從管外縫隙漏出。  

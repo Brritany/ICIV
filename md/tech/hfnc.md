@@ -1,6 +1,6 @@
 # High-Flow Nasal Cannula (HFNC)
 
-![AirVo2 HFNC](images/hfnc.png)
+![AirVo2 HFNC](images/hfnc.webp)
 
 ## Introduction
 

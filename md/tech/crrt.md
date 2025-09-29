@@ -1,6 +1,6 @@
 # 連續性腎臟替代治療 Continuous Renal Replacement Therapy (CRRT)  
 
-![CRRT Overview](images/crrt_overview.png)  
+![CRRT Overview](images/crrt_overview.webp)  
 *CRRT 治療概觀 (Overview)*  
 
 ---
@@ -14,7 +14,7 @@
   - CVVHD (Diffusion, 擴散透析)  
   - CVVHDF (Convection + Diffusion, 對流 + 擴散)  
 
-![CRRT Modalities](images/crrt_modalities.png)  
+![CRRT Modalities](images/crrt_modalities.webp)  
 *CVVH / CVVHD / CVVHDF 模式比較*  
 
 ---
@@ -88,7 +88,7 @@
   - 依醫囑設定PBP, Dialysis, Replacement ml/hr
 - **過濾分率（Filtration Fraction, FF）**：維持FF<20%。較高的濾過分數與迴路凝血增加有關，推測是由於血液濃縮以及血液濾器內血液蛋白-膜相互作用所致。  
 
-![Filtration Fraction](images/crrt_filtration_fraction.png)  
+![Filtration Fraction](images/crrt_filtration_fraction.webp)  
 *過濾分率計算公式*  
 
 - **血流速 (Blood Flow Rate)**：
@@ -115,7 +115,7 @@
 - **感染 (Infection)**：血管通路相關  
 - **出血 (Bleeding)**：與抗凝治療相關  
 
-![Complications](images/crrt_complications.png)  
+![Complications](images/crrt_complications.webp)  
 *CRRT 併發症：電解質異常、低體溫、低血壓、感染*  
 
 ---

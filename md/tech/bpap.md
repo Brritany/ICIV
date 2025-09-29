@@ -96,11 +96,11 @@ NIV 效果不佳或證據不足：
 
 - PCV Mode：無論是由呼吸機(Timed)或是患者(Spont)觸發，PCV 模式均會傳送壓力控制的呼吸。圖 4-8 顯示了PCV 模式下的有效控制設定。IPAP設定則定義了所有呼吸的施加吸氣壓力。如果患者無法在呼吸次數設定所決定的間隔時間內透過Auto-Trak觸發呼吸，此呼吸機會觸發強迫式呼吸。1-Time(吸氣時間)設定是所有呼吸的循環標準。圖4-9顯示PCV 模式壓力波形。
 
-![V60 PCV Mode](images/v60_pcvmode.png)
+![V60 PCV Mode](images/v60_pcvmode.webp)
 
 - S/T Mode：S/T模式可保證以使用者設定的速率來傳送呼吸。它能完全以IPAP壓力水平，傳送壓力控制與時間循環式的強迫式呼吸，以及壓力支持式的自發式呼吸。如果患者無法在速率設定所決定的間隔時間内觸發呼吸，此呼吸機會以設定的I-Time(吸氣時間)來觸發強迫式呼吸。會根據呼吸機的Auto-Trak敏感度演算法，讓患者進行觸發或循環。圖 4-10顯示了S/T模式下的有效控制設定。圖4-11顯示S/T模式壓力波形。
 
-![V60 ST Mode](images/v60_stmode.png)
+![V60 ST Mode](images/v60_stmode.webp)
 
 [Philips Respironics V60 使用手冊（PDF）](https://www.documents.philips.com/assets/Instruction%20for%20Use/20221120/c79244e2edf84ddb9a35af53015a6f21.pdf?feed=ifu_docs_feed)
 
