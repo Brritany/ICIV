@@ -363,6 +363,7 @@ function prettifyKey(k){
 const labelMap = {
   genericName: "Generic Name",
   brandName: "Brand Name",
+  preparation: "Preparation",
   commonDosing: "Common Dose",
   mechanismOfAction: "Mechanism",
   adverseEffects: "Adverse Effects",
@@ -409,8 +410,8 @@ function renderDrugInfo(d = {}, key){
 
   const knownOrder = [
     "genericName","brandName",
-    "mechanismOfAction","indications","commonDosing","adverseEffects","monitoring",
-    "contraindications","cautions","sources"
+    "mechanismOfAction","indications","preparation","commonDosing",
+    "adverseEffects","monitoring","contraindications","cautions","sources"
   ];
 
   const keysSorted = [

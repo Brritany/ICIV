@@ -2,25 +2,38 @@
 <html>
 <head>
   <meta charset="UTF-8" />
-  <title>ICIV — Intensive Care Information & Visualization</title>
+  <title>ICIV — 加護病房資訊與視覺化</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- 自訂css樣式 -->
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/markdown.css" />
+
+  <!-- GitHub Markdown 風格（讓 .md 呈現像 README） -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css" integrity="sha512-3Q2wz6h7xq7Y0oWvZ8e6o+3d0E0m5yqI7S0nK1YB1a9s9i2o5F9V6S5sybE2b8QJxF6vH6b9vI2cJm7v0kRz6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <!-- 外部函式庫 -->
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-  <h1>ICIV — Intensive Care Information & Visualization</h1>
+  <h1>ICIV — 加護病房資訊與視覺化</h1>
 
-  <div class="module-tabs">
-    <button class="tab-btn active" data-target="module1">Module 1: IV Compatibility Matrix</button>
-    <button class="tab-btn" data-target="module2">Module 2: Drug Quick Sheet</button>
-  </div>
+  <nav class="module-tabs">
+    <button class="tab-btn active" data-target="module1">3-way相容性檢驗</button>
+    <button class="tab-btn" data-target="module2">藥物口袋手冊</button>
+    <button class="tab-btn" data-target="module3">外科常見手術</button>
+    <button class="tab-btn" data-target="module4">常見引流管</button>
+    <button class="tab-btn" data-target="module5">常見儀器</button>
+    <button class="tab-btn" data-target="module6">常見臨床檢驗</button>
+    <button class="tab-btn" data-target="module7">常見術後合併症</button>
+  </nav>
 
-  <!-- Module 1 (unchanged) -->
+  <!-- 模組 1 -->
   <div id="module1" class="module">
-    <h2>IV Compatibility Matrix</h2>
     <div class="bar">
-      <label>Drug A：</label><select id="selA"></select>
-      <label>Drug B：</label><select id="selB"></select>
+      <label>藥品 A：</label><select id="selA"></select>
+      <label>藥品 B：</label><select id="selB"></select>
     </div>
     <div class="group-buttons" id="groupBtns"></div>
     <div class="tbl-wrap">
@@ -30,27 +43,71 @@
       </table>
     </div>
     <div class="legend">
-      <span><span class="dot" style="background:var(--ok)"></span>Y Compatible</span>
-      <span><span class="dot" style="background:var(--no)"></span>N Incompatible</span>
-      <span><span class="dot" style="background:var(--var)"></span>! Variable Results</span>
-      <span><span class="dot" style="background:var(--unk)"></span>? No Data</span>
-      <span><span class="dot" style="background:var(--diag)"></span>- Same Drug</span>
+      <span><span class="dot" style="background:var(--ok)"></span>Y 相容</span>
+      <span><span class="dot" style="background:var(--no)"></span>N 不相容</span>
+      <span><span class="dot" style="background:var(--var)"></span>! 結果不一致，請聯絡藥師確認</span>
+      <span><span class="dot" style="background:var(--unk)"></span>? 無資料</span>
+      <span><span class="dot" style="background:var(--diag)"></span>- 同一藥品</span>
     </div>
-    <div class="meta">Updated: 2025/09/16 | Sources: Micromedex® IV Compatibility</div>
-    <div class="meta">Data based on Micromedex® IV Compatibility (Merative™).</div>
+    <div class="meta">更新日期：2025/09/16｜資料來源：Micromedex® IV Compatibility</div>
+    <div class="meta">資料基於 Micromedex® IV Compatibility (Merative™)。</div>
     <div class="meta">© 2025 ICIV Project. All rights reserved.</div>
   </div>
 
-  <!-- Module 2 (new) -->
+  <!-- 模組 2 -->
   <div id="module2" class="module hidden">
-
-    <!-- 動態藥品 tabs -->
     <div id="drugTabsInfo" class="drug-tabs"></div>
-
-    <!-- 動態內容 -->
     <div id="drugInfoContainer" class="drug-info"></div>
   </div>
 
+  <!-- 模組 3：外科手術 -->
+  <div id="module3" class="module hidden" role="region" aria-labelledby="tab-module3">
+    <div id="surgTabs" class="drug-tabs" role="tablist" aria-label="Surgical specialties"></div>
+
+    <article id="surgMdContainer" class="markdown-body">
+      請選擇上方的專科分頁載入內容…
+    </article>
+
+    <div class="meta">© 2025 ICIV Project. 外科常見手術</div>
+  </div>
+
+  <!-- 模組 4：常見的引流管 -->
+  <div id="module4" class="module hidden" role="region" aria-labelledby="tab-module4">
+    <article id="drainMdContainer" class="markdown-body">
+      載入中…
+    </article>
+    <div class="meta">© 2025 ICIV Project. 常見引流管</div>
+  </div>
+
+  <!-- 模組 5：常見技術 -->
+  <div id="module5" class="module hidden" role="region" aria-labelledby="tab-module5">
+    <div id="techTabs" class="drug-tabs" role="tablist" aria-label="ICU Technologies"></div>
+    <article id="techMdContainer" class="markdown-body">
+      請選擇上方的技術分頁載入內容…
+    </article>
+    <div class="meta">© 2025 ICIV Project. 常見儀器</div>
+  </div>
+
+  <!-- 模組 6：常見臨床檢驗 -->
+  <div id="module6" class="module hidden" role="region" aria-labelledby="tab-module6">
+    <div id="labTabs" class="drug-tabs" role="tablist" aria-label="Common Clinical Tests"></div>
+    <article id="labMdContainer" class="markdown-body">
+      請選擇上方的檢驗分頁載入內容…
+    </article>
+    <div class="meta">© 2025 ICIV Project. 常見臨床檢驗</div>
+  </div>
+
+  <!-- 模組 7：常見術後合併症 -->
+  <div id="module7" class="module hidden" role="region" aria-labelledby="tab-module7">
+    <div id="compTabs" class="drug-tabs" role="tablist" aria-label="Common Postoperative Complications"></div>
+    <article id="compMdContainer" class="markdown-body">
+      請選擇上方的合併症分頁載入內容…
+    </article>
+    <div class="meta">© 2025 ICIV Project. 常見術後合併症</div>
+  </div>
+
+  <!-- js腳本 -->
   <script src="js/script.js"></script>
+  <script src="js/loadMarkdownModule.js"></script>
 </body>
 </html>

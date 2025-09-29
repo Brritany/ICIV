@@ -1,12 +1,16 @@
 {
   "norepinephrine": {
     "genericName": "Norepinephrine",
-    "brandName": "Levophed",
+    "brandName": "Levophed 4mg/4ml/vial",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Predominantly α-receptor–mediated vasoconstriction with weak β-receptor agonism producing modest cardiac stimulation; usual doses do not appear to impair renal function.",
     "indications": [
       "Preferred vasopressor in septic shock",
       "Vasodilatory shock requiring vasopressor support"
+    ],
+    "preparation": [
+      "稀：4mg in D5W 100ml; 8mg in D5W 250ml",
+      "濃：8mg in D5W 100ml; 16mg in D5W 250ml"
     ],
     "commonDosing": [
       "Start 5–10 μg/min IV infusion; titrate upward to effect",
@@ -34,12 +38,15 @@
 
   "vasopressin": {
     "genericName": "Vasopressin",
-    "brandName": "Pitressin",
+    "brandName": "Pitressin 20U/ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "V1 receptor–mediated vasoconstriction (arterial); V2 antidiuretic effect.",
     "indications": [
       "Septic shock resistant to norepinephrine (e.g., ≥0.2 μg/kg/min) as an adjunct (catecholamine-sparing; no proven survival benefit)",
       "Cardiac arrest: single IV dose of 40 units may replace the first or second epinephrine dose"
+    ],
+    "preparation": [
+      "60U in NS 100ml"
     ],
     "commonDosing": [
       "Septic shock: continuous infusion 0.03–0.04 Units/hr; not titrated (unlike catecholamine vasopressors)"
@@ -63,13 +70,16 @@
   
   "epinephrine": {
     "genericName": "Epinephrine",
-    "brandName": "Bosmin",
+    "brandName": "Bosmin 1mg/ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Potent β-receptor agonist producing dose-dependent increases in heart rate, stroke volume, and blood pressure; also exerts α-receptor–mediated vasoconstriction.",
     "indications": [
       "Cardiopulmonary resuscitation (first-line vasopressor)",
       "Anaphylactic shock resuscitation",
       "Third-line vasopressor in septic shock when hypotension remains refractory to norepinephrine ± vasopressin"
+    ],
+    "preparation": [
+      "10mg in NS 100ml"
     ],
     "commonDosing": [
       "Septic shock: continuous infusion, start 0.1 μg/kg/min IV; titrate upward as needed; maximum 0.5 μg/kg/min",
@@ -98,12 +108,16 @@
   
   "dopamine": {
     "genericName": "Dopamine",
-    "brandName": "Dopamine",
+    "brandName": "Dopamine 200mg/5ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Endogenous catecholamine and precursor of norepinephrine; exhibits dose-dependent effects: ≤3 μg/kg/min activates dopamine receptors (renal, splanchnic vasodilation); 3–10 μg/kg/min stimulates β-receptors (↑stroke volume, cardiac output); >10 μg/kg/min activates α-receptors (vasoconstriction, ↑SVR, ↑afterload).",
     "indications": [
       "Previously used as a vasopressor in septic shock (now largely replaced by norepinephrine)",
       "Occasional use in cardiogenic shock with low cardiac output and bradycardia when norepinephrine is not suitable"
+    ],
+    "preparation": [
+      "400mg in D5W 250ml",
+      "EasyDopa: 400mg/250ml/bag"
     ],
     "commonDosing": [
       "Start at 5 μg/kg/min IV infusion; titrate upward as needed",
@@ -131,13 +145,16 @@
   
   "propofol": {
     "genericName": "Propofol",
-    "brandName": "Fresofol",
+    "brandName": "Fresofol 200mg/20ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Rapidly acting GABAergic sedative; produces sedation, amnesia, and anticonvulsant effects without analgesia.",
     "indications": [
       "Induction of general anesthesia",
       "Sedation during mechanical ventilation in ICU patients",
       "Procedural sedation"
+    ],
+    "preparation": [
+      "Pure use"
     ],
     "commonDosing": [
       "Bolus: produces sedation within 1–2 minutes, lasting 5–8 minutes (not recommended in hemodynamically unstable patients)",
@@ -169,7 +186,7 @@
   
   "dexmedetomidine": {
     "genericName": "Dexmedetomidine",
-    "brandName": "Precedex",
+    "brandName": "Precedex 200mcg/2ml/vial",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Selective α2-adrenergic agonist producing sedation, amnesia, and mild analgesia without ventilatory depression; sedation resembles natural sleep.",
     "indications": [
@@ -177,6 +194,9 @@
       "Situations requiring cooperative sedation (e.g., ventilator weaning, neurological evaluations in stroke/TBI)",
       "Treatment of ICU-related delirium (drug of choice)",
       "Procedural sedation in non-intubated patients"
+    ],
+    "preparation": [
+      "200mcg in NS 50ml"
     ],
     "commonDosing": [
       "Loading dose: 1 μg/kg IV over 10 minutes (often omitted in ICU due to risk of hypotension/bradycardia)",
@@ -203,13 +223,16 @@
   
   "midazolam": {
     "genericName": "Midazolam",
-    "brandName": "Dormicum",
+    "brandName": "Dormicum 15mg/3aml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Short-acting benzodiazepine; enhances GABA-A receptor activity to produce sedation, anxiolysis, amnesia, and anticonvulsant effects.",
     "indications": [
       "Procedural sedation (favored agent)",
       "Short-term sedation in ICU patients",
       "Adjunct in management of seizures or agitation"
+    ],
+    "preparation": [
+      "45mg in NS 45ml"
     ],
     "commonDosing": [
       "Bolus: sedation within 5 minutes, lasting 1–2 hours",
@@ -238,7 +261,7 @@
 
   "lorazepam": {
     "genericName": "Lorazepam",
-    "brandName": "Anxicam",
+    "brandName": "Anxicam 2mg/ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Intermediate-acting benzodiazepine; enhances GABA-A receptor activity, producing sedation, anxiolysis, amnesia, and anticonvulsant effects.",
     "indications": [
@@ -246,6 +269,9 @@
       "Management of anxiety and agitation",
       "Treatment of alcohol or opioid withdrawal",
       "Adjunct in seizure control"
+    ],
+    "preparation": [
+      "IM"
     ],
     "commonDosing": [
       "Bolus: rapid onset, effect lasting up to 6 hours",
@@ -273,13 +299,16 @@
 
   "fentanyl": {
     "genericName": "Fentanyl",
-    "brandName": "Fentanyl",
+    "brandName": "Fentanyl 0.5mg/10ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Synthetic μ-opioid receptor agonist; highly lipophilic, rapid onset; lacks histamine release compared with morphine.",
     "indications": [
       "Preferred opioid analgesic in ICUs",
       "Analgesia for mechanically ventilated patients",
       "Adjunct to sedation and procedural analgesia"
+    ],
+    "preparation": [
+      "Pure use"
     ],
     "commonDosing": [
       "IV bolus: onset rapid; titrate to effect",
@@ -307,12 +336,15 @@
 
   "morphine": {
     "genericName": "Morphine",
-    "brandName": "Morphine",
+    "brandName": "Morphine 10mg/ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Principal alkaloid of opium; μ-opioid receptor agonist with active metabolites that contribute to both analgesia and toxicity.",
     "indications": [
       "Traditional opioid analgesic for ICU pain control",
       "Alternative to fentanyl when cost or availability is a concern"
+    ],
+    "preparation": [
+      "100mg in NS 100ml for palliative care"
     ],
     "commonDosing": [
       "IV bolus or continuous infusion titrated to effect",
@@ -339,12 +371,15 @@
 
   "succinylcholine": {
     "genericName": "Succinylcholine",
-    "brandName": "Relaxin",
+    "brandName": "Relaxin 500mg/vial",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Depolarizing neuromuscular blocker; binds to acetylcholine receptors, causing sustained depolarization and flaccid paralysis.",
     "indications": [
       "Rapid-sequence endotracheal intubation (RSI)",
       "Situations requiring rapid onset and short duration of paralysis"
+    ],
+    "preparation": [
+      "10ml DW in 500mg → 50mg/ml for intubation"
     ],
     "commonDosing": [
       "IV bolus: 1.0 mg/kg for RSI",
@@ -369,7 +404,7 @@
 
   "rocuronium": {
     "genericName": "Rocuronium",
-    "brandName": "Rocuronium",
+    "brandName": "Rocuronium 50mg/5ml/vial",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Non-depolarizing aminosteroid neuromuscular blocker; competitively inhibits acetylcholine binding at nicotinic receptors.",
     "indications": [
@@ -401,13 +436,16 @@
 
   "cisatracurium": {
     "genericName": "Cisatracurium",
-    "brandName": "Nimbex",
+    "brandName": "Nimbex 10mg/5ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Non-depolarizing benzylisoquinolinium neuromuscular blocker; competitively inhibits acetylcholine receptors; eliminated by Hofmann degradation (organ-independent).",
     "indications": [
       "ICU paralysis for ventilator synchrony in ARDS or severe hypoxemia",
       "Prevention of shivering during induced hypothermia",
       "Adjunct to control intracranial pressure or facilitate procedures"
+    ],
+    "preparation": [
+      "Pure use"
     ],
     "commonDosing": [
       "Onset: 5–7 minutes; Duration: 35–50 minutes (intermediate)",
@@ -493,7 +531,7 @@
 
   "amiodarone": {
     "genericName": "Amiodarone",
-    "brandName": "Cordarone",
+    "brandName": "Cordarone 150mg/3ml/amp",
     "lastReviewed": "2025-09-18",
     "mechanismOfAction": "Class III antiarrhythmic with multiple channel-blocking properties (Na, K, Ca) and non-competitive β-blockade; effective in rate control and rhythm conversion.",
     "indications": [
@@ -502,7 +540,11 @@
       "Conversion of atrial fibrillation to sinus rhythm (variable efficacy)",
       "Management of ventricular tachyarrhythmias"
     ],
+    "preparation": [
+      "900mg in D5W 50ml"
+    ],
     "commonDosing": [
+      "Routine: cIF, set 10ml/hr for 30mins (Loading Dose), then set 2ml/hr with titration",
       "IV: total loading ≈ 1 g over first 24h (e.g., 150 mg IV over 10 min, then 1 mg/min for 6h, then 0.5 mg/min for 18h)",
       "Transition to PO: start 400 mg PO 4–5h before stopping infusion; continue 400 mg PO BID until total loading dose (IV+PO) ≈ 10 g",
       "Maintenance: 100–200 mg PO daily"
@@ -593,5 +635,4 @@
       { "label": "Marino PL. The ICU Book, 5th ed." }
     ]
   }
-
 }

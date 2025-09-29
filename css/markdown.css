@@ -1,0 +1,117 @@
+/* =========================
+   Markdown 排版樣式
+   ========================= */
+
+.markdown-body {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #222;
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+/* 標題 */
+.markdown-body h1 {
+  font-size: 28px;
+  margin: 1.5em 0 0.8em;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+.markdown-body h2 {
+  font-size: 24px;
+  margin: 1.3em 0 0.7em;
+  border-left: 4px solid #3b82f6;
+  padding-left: 8px;
+}
+
+.markdown-body h3 {
+  font-size: 20px;
+  margin: 1.2em 0 0.6em;
+  color: #333;
+}
+
+/* 段落 & 清單 */
+.markdown-body p,
+.markdown-body li {
+  font-size: 16px;
+  margin-bottom: 0.8em;
+}
+
+.markdown-body ul {
+  padding-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+.markdown-body li::marker {
+  color: #3b82f6;
+}
+
+/* 引用區塊 */
+.markdown-body blockquote {
+  font-size: 15px;
+  color: #555;
+  border-left: 4px solid #ccc;
+  padding-left: 12px;
+  margin: 1em 0;
+  background: #f9f9f9;
+}
+
+/* 表格 */
+.markdown-body table {
+  font-size: 15px;
+  border-collapse: collapse;
+  margin: 1em auto;
+  width: 100%;
+}
+
+.markdown-body th {
+  background: #f0f4f9;
+  font-weight: bold;
+}
+
+.markdown-body th,
+.markdown-body td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+/* 圖片 */
+.markdown-body img {
+  width: min(720px, 100%);
+  height: auto;
+  display: block;
+  margin: 16px auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* 圖片 caption (用 <p><em>…</em></p>) */
+.markdown-body p em {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  margin-top: 6px;
+  color: #555;
+  font-size: 14px;
+}
+
+/* 程式碼區塊 */
+.markdown-body pre code {
+  display: block;
+  background: #f5f5f5;
+  border-radius: 6px;
+  padding: 10px;
+  font-size: 14px;
+  overflow-x: auto;
+  font-family: Consolas, monospace;
+}
+
+/* inline code */
+.markdown-body code {
+  background: #f0f0f0;
+  border-radius: 4px;
+  padding: 2px 5px;
+  font-size: 14px;
+  font-family: Consolas, monospace;
+}
